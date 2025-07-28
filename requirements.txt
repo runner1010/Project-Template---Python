@@ -1,0 +1,7 @@
+# requirements.txt
+# Purpose: Lists Python packages your project depends on.
+
+# How to Use:
+# - Add package names and versions (e.g., requests==2.31.0).
+# - Install all dependencies using:
+#   pip install -r requirements.txt
